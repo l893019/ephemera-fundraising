@@ -36,7 +36,7 @@ export default function Home() {
             Ephemera creates intimate, immersive gatherings where live music, art, and atmosphere come together to make people feel more present, more connected, and more alive.
           </p>
           <p>
-            We are building a cultural home for people who are hungry for beauty, belonging, and meaningful encounters with artists—not as distant performers, but as collaborators in a shared world.
+            We are building a cultural home for people who are hungry for beauty, belonging, and meaningful encounters with artists. Not as distant performers, but as collaborators in a shared world.
           </p>
         </Section>
 
@@ -78,7 +78,7 @@ export default function Home() {
             Over the next six months, we will host recurring small-format gatherings alongside larger immersive events, while building the portable decor, production tools, and artistic partnerships needed to make each gathering feel transportive and cohesive.
           </p>
           <p>
-            Our vision is to create not just a series of events, but a recognizable cultural ecosystem—one that supports artists, nurtures patrons, and helps re-enchant the social life of San Francisco.
+            Our vision is to create not just a series of events, but a recognizable cultural ecosystem. One that supports artists, nurtures patrons, and helps re-enchant the social life of San Francisco.
           </p>
         </Section>
 
@@ -86,10 +86,10 @@ export default function Home() {
 
         <Section marker="05" question="How can you help?">
           <p>
-            We are raising $30–35K to support the first six months of Ephemera, including artist payments, event production, portable decor, and the infrastructure required to sustain a high-quality pop-up model.
+            We are raising $30-35K to support the first six months of Ephemera, including artist payments, event production, portable decor, and the infrastructure required to sustain a high-quality pop-up model.
           </p>
           <p>
-            We are inviting a founding circle of patrons to help bring this vision into being at an early and formative stage. By supporting Ephemera, you are not simply funding events—you are helping to cultivate a more intimate, artist-centered, and deeply human future for culture in San Francisco.
+            We are inviting a founding circle of patrons to help bring this vision into being at an early and formative stage. By supporting Ephemera, you are helping to cultivate a more intimate, artist-centered, and deeply human future for culture in San Francisco.
           </p>
         </Section>
 
