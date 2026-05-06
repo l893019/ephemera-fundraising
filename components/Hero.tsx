@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useState } from 'react';
+import Image from 'next/image';
 
 export default function Hero() {
   const [isVisible, setIsVisible] = useState(false);
@@ -16,9 +17,16 @@ export default function Hero() {
           isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
         }`}
       >
-        <h1 className="text-5xl md:text-6xl lg:text-7xl font-light mb-8 tracking-tight">
-          Ephemera
-        </h1>
+        <div className="mb-8 relative w-full max-w-md mx-auto">
+          <Image
+            src="/images/ephemera-logo.png"
+            alt="Ephemera"
+            width={1117}
+            height={747}
+            className="w-full h-auto"
+            priority
+          />
+        </div>
         <p className="text-xl md:text-2xl lg:text-3xl font-light max-w-3xl mx-auto leading-relaxed">
           A new model of arts patronage for San Francisco
         </p>
